@@ -8,7 +8,6 @@
 
 ### Updates
 
-|   | Name | Priorities | Progress | Problems |
-| 1 |      |            |          |          |
-| 2 |      |            |          |          | 
-| 3 |      |            |          |          |
+| --- | Name | Priorities | Progress | Problems |
+| 1   |  --- |     ---    |    ---   |    ---   |
+
